@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/exe.dir/src/buscador.cpp.o  -o exe 

@@ -1,0 +1,3 @@
+/home/joseph/Escritorio/practicaExamen/buscadorCadenas/build/CMakeFiles/rebuild_cache.dir
+/home/joseph/Escritorio/practicaExamen/buscadorCadenas/build/CMakeFiles/edit_cache.dir
+/home/joseph/Escritorio/practicaExamen/buscadorCadenas/build/CMakeFiles/exe.dir
