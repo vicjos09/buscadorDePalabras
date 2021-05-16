@@ -7,8 +7,8 @@ int len(std::string cadena);
 int considencias(std::string cadena,std::string pat);
 int main()
 {    
-	int sizeCadena;
-	int sizePatron;
+    int sizeCadena;
+    int sizePatron;
     int * posi;
     int considen=0;
     int cont=0;
